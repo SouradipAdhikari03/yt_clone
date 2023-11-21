@@ -23,4 +23,8 @@ a {
   ::-webkit-scrollbar-track {
     background-color: transparent;
   }
-  
+  .search-bar{
+    border:none;
+    outline:none;
+    width:350px;
+  }  
